@@ -62886,6 +62886,12 @@
         {
           "min": 0,
           "max": 84,
+          "runways": [
+            {
+              "icao": "LFLL",
+              "runway": "35"
+            }
+          ],
           "points": [
             [
               "455526",
@@ -62950,6 +62956,12 @@
         {
           "min": 0,
           "max": 84,
+          "runways": [
+            {
+              "icao": "LFLL",
+              "runway": "17"
+            }
+          ],
           "points": [
             [
               "455526",
@@ -107886,6 +107898,12 @@
         {
           "min": 0,
           "max": 74,
+          "runways": [
+            {
+              "icao": "LFLL",
+              "runway": "35"
+            }
+          ],
           "points": [
             [
               "451645",
@@ -107970,6 +107988,12 @@
         {
           "min": 0,
           "max": 74,
+          "runways": [
+            {
+              "icao": "LFLL",
+              "runway": "17"
+            }
+          ],
           "points": [
             [
               "455122",
@@ -108688,6 +108712,12 @@
         {
           "min": 0,
           "max": 59,
+          "runways": [
+            {
+              "icao": "LFBO",
+              "runway": "32"
+            }
+          ],
           "points": [
             [
               "432342",
@@ -109274,6 +109304,12 @@
         {
           "min": 0,
           "max": 59,
+          "runways": [
+            {
+              "icao": "LFBO",
+              "runway": "14"
+            }
+          ],
           "points": [
             [
               "434615",
