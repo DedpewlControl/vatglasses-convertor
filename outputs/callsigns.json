@@ -13,7 +13,8 @@
         },
         "APP": {
             "": "Approach",
-            "U": "Control",
+            "I": "Information",
+            "C": "Control",
             "F": "Arrival"
         },
         "DEP": {
