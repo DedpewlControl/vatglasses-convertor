@@ -8010,6 +8010,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LSGG",
+          "runway": "22"
+        }
+      ],
       "sectors": [
         {
           "min": 195,
@@ -8114,6 +8120,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LSGG",
+          "runway": "04"
+        }
       ],
       "sectors": [
         {
@@ -8928,6 +8940,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
+      ],
       "sectors": [
         {
           "min": 115,
@@ -8968,6 +8986,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
       ],
       "sectors": [
         {
@@ -41259,6 +41283,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
@@ -41321,6 +41351,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -41374,6 +41410,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
       ],
       "sectors": [
         {
@@ -41717,6 +41759,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
@@ -41787,6 +41835,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
@@ -41840,6 +41894,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
       ],
       "sectors": [
         {
@@ -41898,6 +41958,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
       ],
       "sectors": [
         {
@@ -42265,6 +42331,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
@@ -42362,6 +42434,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
       ],
       "sectors": [
         {
@@ -42568,6 +42646,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -42642,6 +42726,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
       ],
       "sectors": [
         {
@@ -42742,6 +42832,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
@@ -42805,6 +42901,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -42855,6 +42957,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
       ],
       "sectors": [
         {
@@ -42934,6 +43042,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
       ],
       "sectors": [
         {
@@ -43070,6 +43184,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -43192,6 +43312,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
       ],
       "sectors": [
         {
@@ -43319,6 +43445,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
       ],
       "sectors": [
         {
@@ -43450,6 +43582,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
       ],
       "sectors": [
         {
@@ -43578,6 +43716,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
@@ -43628,6 +43772,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
       ],
       "sectors": [
         {
@@ -43756,6 +43906,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 105,
@@ -43882,6 +44038,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
       ],
       "sectors": [
         {
@@ -44010,6 +44172,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 45,
@@ -44073,6 +44241,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 75,
@@ -44132,6 +44306,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 105,
@@ -44187,6 +44367,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 105,
@@ -44237,6 +44423,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
       ],
       "sectors": [
         {
@@ -44296,6 +44488,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
       ],
       "sectors": [
         {
@@ -44568,6 +44766,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 65,
@@ -44642,6 +44846,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
       ],
       "sectors": [
         {
@@ -44742,6 +44952,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
@@ -44832,6 +45048,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
       ],
       "sectors": [
         {
@@ -53931,6 +54153,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
+      ],
       "sectors": [
         {
           "min": 85,
@@ -53998,6 +54226,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
+      ],
       "sectors": [
         {
           "min": 85,
@@ -54035,6 +54269,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
       ],
       "sectors": [
         {
@@ -54105,6 +54345,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
       ],
       "sectors": [
         {
@@ -54304,6 +54550,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -54501,6 +54753,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
       ],
       "sectors": [
         {
@@ -55695,6 +55953,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
       ],
       "sectors": [
         {
@@ -57128,6 +57392,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
+      ],
       "sectors": [
         {
           "min": 35,
@@ -57265,6 +57535,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
       ],
       "sectors": [
         {
@@ -58188,6 +58464,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
+      ],
       "sectors": [
         {
           "min": 35,
@@ -58285,6 +58567,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
       ],
       "sectors": [
         {
@@ -59318,6 +59606,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -59413,6 +59707,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -59484,6 +59784,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -59526,6 +59832,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
       ],
       "sectors": [
         {
@@ -59581,6 +59893,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
       ],
       "sectors": [
         {
@@ -59940,6 +60258,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
       ],
       "sectors": [
         {
@@ -60432,6 +60756,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
+      ],
       "sectors": [
         {
           "min": 35,
@@ -60566,6 +60896,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
       ],
       "sectors": [
         {
@@ -60854,6 +61190,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
+      ],
       "sectors": [
         {
           "min": 35,
@@ -61032,6 +61374,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
       ],
       "sectors": [
         {
@@ -62552,6 +62900,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -62615,6 +62969,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
       ],
       "sectors": [
         {
@@ -74140,6 +74500,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -74181,6 +74547,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
       ],
       "sectors": [
         {
@@ -74224,6 +74596,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
       ],
       "sectors": [
         {
@@ -74339,6 +74717,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
       ],
       "sectors": [
         {
@@ -74542,6 +74926,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
+      ],
       "sectors": [
         {
           "min": 15,
@@ -74655,6 +75045,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
       ],
       "sectors": [
         {
@@ -81609,6 +82005,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -81654,6 +82056,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
       ],
       "sectors": [
         {
@@ -81701,6 +82109,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
       ],
       "sectors": [
         {
@@ -82000,6 +82414,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -82299,6 +82719,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
+      ],
       "sectors": [
         {
           "min": 65,
@@ -82409,6 +82835,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
       ],
       "sectors": [
         {
@@ -82537,6 +82969,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
+      ],
       "sectors": [
         {
           "min": 35,
@@ -82664,6 +83102,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
@@ -82790,6 +83234,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
       ],
       "sectors": [
         {
@@ -82925,6 +83375,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
+      ],
       "sectors": [
         {
           "min": 65,
@@ -83034,6 +83490,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
       ],
       "sectors": [
         {
@@ -83161,6 +83623,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
+      ],
       "sectors": [
         {
           "min": 35,
@@ -83287,6 +83755,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
@@ -83412,6 +83886,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
       ],
       "sectors": [
         {
@@ -83548,6 +84028,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -83666,6 +84152,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -83785,6 +84277,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
+      ],
       "sectors": [
         {
           "min": 45,
@@ -83883,6 +84381,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
       ],
       "sectors": [
         {
@@ -83986,6 +84490,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
       ],
       "sectors": [
         {
@@ -84093,6 +84603,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
+      ],
       "sectors": [
         {
           "min": 45,
@@ -84190,6 +84706,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
       ],
       "sectors": [
         {
@@ -84292,6 +84814,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
       ],
       "sectors": [
         {
@@ -107552,6 +108080,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -107635,6 +108169,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
       ],
       "sectors": [
         {
@@ -107832,6 +108372,16 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPO",
+          "runway": "24"
+        },
+        {
+          "icao": "LFPO",
+          "runway": "25"
+        }
+      ],
       "sectors": [
         {
           "min": 15,
@@ -107911,6 +108461,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "26"
+        }
       ],
       "sectors": [
         {
@@ -108042,6 +108598,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
+      ],
       "sectors": [
         {
           "min": 15,
@@ -108133,6 +108695,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "08"
+        }
       ],
       "sectors": [
         {
@@ -108280,6 +108848,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
+      ],
       "sectors": [
         {
           "min": 15,
@@ -108353,6 +108927,12 @@
         "AW",
         "AE",
         "BB"
+      ],
+      "runways": [
+        {
+          "icao": "LFBO",
+          "runway": "32"
+        }
       ],
       "sectors": [
         {
@@ -108939,6 +109519,12 @@
         "AW",
         "AE",
         "BB"
+      ],
+      "runways": [
+        {
+          "icao": "LFBO",
+          "runway": "14"
+        }
       ],
       "sectors": [
         {
@@ -123858,6 +124444,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -123980,6 +124572,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
       ],
       "sectors": [
         {
@@ -124424,6 +125022,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "26"
+        }
       ],
       "sectors": [
         {
@@ -124887,6 +125491,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "08"
+        }
       ],
       "sectors": [
         {
@@ -139187,6 +139797,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "26"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -139355,6 +139971,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "26"
+        }
       ],
       "sectors": [
         {
@@ -140294,6 +140916,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "08"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -140438,6 +141066,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "08"
+        }
       ],
       "sectors": [
         {
