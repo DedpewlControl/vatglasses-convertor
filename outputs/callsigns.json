@@ -5,20 +5,24 @@
             "C": "Coordinator"
         },
         "GND": {
-            "": "Ground"
+            "": "Ground",
+            "C": "Coordinator"
         },
         "TWR": {
             "": "Tower",
+            "C": "Coordinator",
             "I": "Information"
         },
         "APP": {
             "": "Approach",
-            "I": "Information",
             "C": "Control",
-            "F": "Arrival"
+            "SU": "Control",
+            "SC": "Control",
+            "F": "Arrival",
+            "I": "Information"
         },
         "DEP": {
-            "": "Departure"
+            "": "Departures"
         }
     }
 }
