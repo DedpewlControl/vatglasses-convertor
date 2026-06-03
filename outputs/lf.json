@@ -8010,6 +8010,12 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LSGG",
+          "runway": "22"
+        }
+      ],
       "sectors": [
         {
           "min": 195,
@@ -8114,6 +8120,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LSGG",
+          "runway": "04"
+        }
       ],
       "sectors": [
         {
@@ -8928,16 +8940,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
+      ],
       "sectors": [
         {
           "min": 115,
           "max": 144,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "35"
-            }
-          ],
           "points": [
             [
               "463000",
@@ -8975,16 +8987,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
+      ],
       "sectors": [
         {
           "min": 115,
           "max": 144,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "17"
-            }
-          ],
           "points": [
             [
               "463000",
@@ -41271,16 +41283,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
           "max": 144,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "31"
-            }
-          ],
           "points": [
             [
               "434939",
@@ -41339,16 +41351,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 24,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "13"
-            }
-          ],
           "points": [
             [
               "432122",
@@ -41399,16 +41411,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 24,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "13"
-            }
-          ],
           "points": [
             [
               "435218",
@@ -41747,16 +41759,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
           "max": 144,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "31"
-            }
-          ],
           "points": [
             [
               "434050",
@@ -41823,16 +41835,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
           "max": 104,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "31"
-            }
-          ],
           "points": [
             [
               "434225",
@@ -41883,16 +41895,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
           "max": 74,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "31"
-            }
-          ],
           "points": [
             [
               "432737",
@@ -41947,16 +41959,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 24,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "31"
-            }
-          ],
           "points": [
             [
               "435218",
@@ -42319,16 +42331,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
           "max": 144,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "13"
-            }
-          ],
           "points": [
             [
               "432129",
@@ -42423,16 +42435,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
           "max": 44,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "13"
-            }
-          ],
           "points": [
             [
               "431510",
@@ -42634,16 +42646,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 24,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "31"
-            }
-          ],
           "points": [
             [
               "434237",
@@ -42715,16 +42727,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 24,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "13"
-            }
-          ],
           "points": [
             [
               "440159",
@@ -42820,16 +42832,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
           "max": 44,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "13"
-            }
-          ],
           "points": [
             [
               "434800",
@@ -42889,16 +42901,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 24,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "13"
-            }
-          ],
           "points": [
             [
               "440159",
@@ -42946,16 +42958,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
           "max": 64,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "13"
-            }
-          ],
           "points": [
             [
               "440159",
@@ -43031,16 +43043,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 24,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "31"
-            }
-          ],
           "points": [
             [
               "435140",
@@ -43172,16 +43184,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 24,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "13"
-            }
-          ],
           "points": [
             [
               "434837",
@@ -43301,16 +43313,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 105,
           "max": 144,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "31"
-            }
-          ],
           "points": [
             [
               "435129",
@@ -43434,16 +43446,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 65,
           "max": 144,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "31"
-            }
-          ],
           "points": [
             [
               "440539",
@@ -43571,16 +43583,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 65,
           "max": 104,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "31"
-            }
-          ],
           "points": [
             [
               "440159",
@@ -43704,16 +43716,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
           "max": 104,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "31"
-            }
-          ],
           "points": [
             [
               "440539",
@@ -43761,16 +43773,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
           "max": 64,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "31"
-            }
-          ],
           "points": [
             [
               "440159",
@@ -43894,16 +43906,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 105,
           "max": 144,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "13"
-            }
-          ],
           "points": [
             [
               "435140",
@@ -44027,16 +44039,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
           "max": 64,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "13"
-            }
-          ],
           "points": [
             [
               "440159",
@@ -44160,16 +44172,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 45,
           "max": 144,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "13"
-            }
-          ],
           "points": [
             [
               "434900",
@@ -44229,16 +44241,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 75,
           "max": 144,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "31"
-            }
-          ],
           "points": [
             [
               "432737",
@@ -44294,16 +44306,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 105,
           "max": 144,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "31"
-            }
-          ],
           "points": [
             [
               "434225",
@@ -44355,16 +44367,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 105,
           "max": 144,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "31"
-            }
-          ],
           "points": [
             [
               "440539",
@@ -44412,16 +44424,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 75,
           "max": 114,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "13"
-            }
-          ],
           "points": [
             [
               "432026",
@@ -44477,16 +44489,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 65,
           "max": 74,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "13"
-            }
-          ],
           "points": [
             [
               "440159",
@@ -44754,16 +44766,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 65,
           "max": 144,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "13"
-            }
-          ],
           "points": [
             [
               "434900",
@@ -44835,16 +44847,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "31"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
           "max": 144,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "31"
-            }
-          ],
           "points": [
             [
               "433319",
@@ -44940,16 +44952,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
           "max": 144,
-          "runways": [
-            {
-              "icao": "LFML",
-              "runway": "13"
-            }
-          ],
           "points": [
             [
               "434800",
@@ -45036,6 +45048,12 @@
         "MMW",
         "MRAW",
         "MM"
+      ],
+      "runways": [
+        {
+          "icao": "LFML",
+          "runway": "13"
+        }
       ],
       "sectors": [
         {
@@ -54135,16 +54153,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
+      ],
       "sectors": [
         {
           "min": 85,
           "max": 114,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "17"
-            }
-          ],
           "points": [
             [
               "455304",
@@ -54208,16 +54226,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
+      ],
       "sectors": [
         {
           "min": 85,
           "max": 114,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "17"
-            }
-          ],
           "points": [
             [
               "463000",
@@ -54252,16 +54270,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
+      ],
       "sectors": [
         {
           "min": 85,
           "max": 114,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "35"
-            }
-          ],
           "points": [
             [
               "461825",
@@ -54328,16 +54346,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 34,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "35"
-            }
-          ],
           "points": [
             [
               "450400",
@@ -54532,16 +54550,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 34,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "17"
-            }
-          ],
           "points": [
             [
               "450400",
@@ -54736,16 +54754,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 34,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "35"
-            }
-          ],
           "points": [
             [
               "445117",
@@ -55936,16 +55954,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 34,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "17"
-            }
-          ],
           "points": [
             [
               "455344",
@@ -57374,16 +57392,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
+      ],
       "sectors": [
         {
           "min": 35,
           "max": 144,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "35"
-            }
-          ],
           "points": [
             [
               "445102",
@@ -57518,16 +57536,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
           "max": 34,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "35"
-            }
-          ],
           "points": [
             [
               "455344",
@@ -58446,16 +58464,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
+      ],
       "sectors": [
         {
           "min": 35,
           "max": 144,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "17"
-            }
-          ],
           "points": [
             [
               "461501",
@@ -58550,16 +58568,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
           "max": 34,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "17"
-            }
-          ],
           "points": [
             [
               "455152",
@@ -59588,16 +59606,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 34,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "35"
-            }
-          ],
           "points": [
             [
               "452526",
@@ -59689,16 +59707,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 34,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "17"
-            }
-          ],
           "points": [
             [
               "452617",
@@ -59766,16 +59784,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 34,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "35"
-            }
-          ],
           "points": [
             [
               "450114",
@@ -59815,16 +59833,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 34,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "17"
-            }
-          ],
           "points": [
             [
               "452617",
@@ -59876,16 +59894,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 34,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "35"
-            }
-          ],
           "points": [
             [
               "455016",
@@ -60241,16 +60259,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 34,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "17"
-            }
-          ],
           "points": [
             [
               "463000",
@@ -60738,16 +60756,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
+      ],
       "sectors": [
         {
           "min": 35,
           "max": 144,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "35"
-            }
-          ],
           "points": [
             [
               "455405",
@@ -60879,16 +60897,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
           "max": 34,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "35"
-            }
-          ],
           "points": [
             [
               "455405",
@@ -61172,16 +61190,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
+      ],
       "sectors": [
         {
           "min": 35,
           "max": 144,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "17"
-            }
-          ],
           "points": [
             [
               "461825",
@@ -61357,16 +61375,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
           "max": 34,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "17"
-            }
-          ],
           "points": [
             [
               "455405",
@@ -62882,16 +62900,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 84,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "35"
-            }
-          ],
           "points": [
             [
               "455526",
@@ -62952,16 +62970,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 84,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "17"
-            }
-          ],
           "points": [
             [
               "455526",
@@ -74482,6 +74500,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -74523,6 +74547,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
       ],
       "sectors": [
         {
@@ -74566,6 +74596,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
       ],
       "sectors": [
         {
@@ -74681,6 +74717,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
       ],
       "sectors": [
         {
@@ -74884,6 +74926,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
+      ],
       "sectors": [
         {
           "min": 15,
@@ -74997,6 +75045,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
       ],
       "sectors": [
         {
@@ -81951,6 +82005,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -81996,6 +82056,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
       ],
       "sectors": [
         {
@@ -82043,6 +82109,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
       ],
       "sectors": [
         {
@@ -82342,6 +82414,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -82641,6 +82719,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
+      ],
       "sectors": [
         {
           "min": 65,
@@ -82751,6 +82835,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
       ],
       "sectors": [
         {
@@ -82879,6 +82969,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
+      ],
       "sectors": [
         {
           "min": 35,
@@ -83006,6 +83102,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
@@ -83132,6 +83234,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
       ],
       "sectors": [
         {
@@ -83267,6 +83375,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
+      ],
       "sectors": [
         {
           "min": 65,
@@ -83376,6 +83490,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
       ],
       "sectors": [
         {
@@ -83503,6 +83623,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
+      ],
       "sectors": [
         {
           "min": 35,
@@ -83629,6 +83755,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
+      ],
       "sectors": [
         {
           "min": 25,
@@ -83754,6 +83886,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
       ],
       "sectors": [
         {
@@ -83890,6 +84028,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -84008,6 +84152,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -84127,6 +84277,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
+      ],
       "sectors": [
         {
           "min": 45,
@@ -84225,6 +84381,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
       ],
       "sectors": [
         {
@@ -84328,6 +84490,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
       ],
       "sectors": [
         {
@@ -84435,6 +84603,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
+      ],
       "sectors": [
         {
           "min": 45,
@@ -84532,6 +84706,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
       ],
       "sectors": [
         {
@@ -84634,6 +84814,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
       ],
       "sectors": [
         {
@@ -107894,16 +108080,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "35"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 74,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "35"
-            }
-          ],
           "points": [
             [
               "451645",
@@ -107984,16 +108170,16 @@
         "MRAW",
         "MM"
       ],
+      "runways": [
+        {
+          "icao": "LFLL",
+          "runway": "17"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 74,
-          "runways": [
-            {
-              "icao": "LFLL",
-              "runway": "17"
-            }
-          ],
           "points": [
             [
               "455122",
@@ -108186,6 +108372,16 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPO",
+          "runway": "24"
+        },
+        {
+          "icao": "LFPO",
+          "runway": "25"
+        }
+      ],
       "sectors": [
         {
           "min": 15,
@@ -108265,6 +108461,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "26"
+        }
       ],
       "sectors": [
         {
@@ -108396,6 +108598,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
+      ],
       "sectors": [
         {
           "min": 15,
@@ -108487,6 +108695,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "08"
+        }
       ],
       "sectors": [
         {
@@ -108634,6 +108848,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
+      ],
       "sectors": [
         {
           "min": 15,
@@ -108708,16 +108928,16 @@
         "AE",
         "BB"
       ],
+      "runways": [
+        {
+          "icao": "LFBO",
+          "runway": "32"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 59,
-          "runways": [
-            {
-              "icao": "LFBO",
-              "runway": "32"
-            }
-          ],
           "points": [
             [
               "432342",
@@ -109300,16 +109520,16 @@
         "AE",
         "BB"
       ],
+      "runways": [
+        {
+          "icao": "LFBO",
+          "runway": "14"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
           "max": 59,
-          "runways": [
-            {
-              "icao": "LFBO",
-              "runway": "14"
-            }
-          ],
           "points": [
             [
               "434615",
@@ -124224,6 +124444,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "27"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -124346,6 +124572,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "09"
+        }
       ],
       "sectors": [
         {
@@ -124790,6 +125022,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "26"
+        }
       ],
       "sectors": [
         {
@@ -125253,6 +125491,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "08"
+        }
       ],
       "sectors": [
         {
@@ -139553,6 +139797,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "26"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -139721,6 +139971,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "26"
+        }
       ],
       "sectors": [
         {
@@ -140660,6 +140916,12 @@
         "LOW",
         "PAR"
       ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "08"
+        }
+      ],
       "sectors": [
         {
           "min": 0,
@@ -140804,6 +141066,12 @@
         "RPAE",
         "LOW",
         "PAR"
+      ],
+      "runways": [
+        {
+          "icao": "LFPG",
+          "runway": "08"
+        }
       ],
       "sectors": [
         {
@@ -148178,19 +148446,24 @@
       "C": "Coordinator"
     },
     "GND": {
-      "": "Ground"
+      "": "Ground",
+      "C": "Coordinator"
     },
     "TWR": {
       "": "Tower",
+      "C": "Coordinator",
       "I": "Information"
     },
     "APP": {
       "": "Approach",
-      "U": "Control",
-      "F": "Arrival"
+      "C": "Control",
+      "SU": "Control",
+      "SC": "Control",
+      "F": "Arrival",
+      "I": "Information"
     },
     "DEP": {
-      "": "Departure"
+      "": "Departures"
     }
   },
   "airports": {
@@ -148206,6 +148479,18 @@
       "coord": [
         50.960933,
         1.951433
+      ],
+      "default": false,
+      "topdown": [
+        "ACI",
+        "QW",
+        "QE",
+        "TB",
+        "TNTB",
+        "AENB",
+        "RPAW",
+        "LOW",
+        "PAR"
       ]
     },
     "LFAD": {
@@ -148290,6 +148575,18 @@
       "coord": [
         49.970061,
         2.692617
+      ],
+      "default": false,
+      "topdown": [
+        "AQT",
+        "QA",
+        "QE",
+        "TB",
+        "TNTB",
+        "AENB",
+        "RPAW",
+        "LOW",
+        "PAR"
       ]
     },
     "LFAR": {
@@ -148311,6 +148608,18 @@
       "coord": [
         50.514847,
         1.627578
+      ],
+      "default": false,
+      "topdown": [
+        "ATT",
+        "QW",
+        "QE",
+        "TB",
+        "TNTB",
+        "AENB",
+        "RPAW",
+        "LOW",
+        "PAR"
       ]
     },
     "LFAU": {
@@ -148325,6 +148634,16 @@
       "coord": [
         50.324792,
         3.465444
+      ],
+      "default": false,
+      "topdown": [
+        "QE",
+        "TB",
+        "TNTB",
+        "AENB",
+        "RPAW",
+        "LOW",
+        "PAR"
       ]
     },
     "LFAW": {
@@ -148353,6 +148672,15 @@
       "coord": [
         44.174714,
         0.590619
+      ],
+      "default": false,
+      "topdown": [
+        "BAT",
+        "WB",
+        "EB",
+        "AW",
+        "AE",
+        "BB"
       ]
     },
     "LFBC": {
@@ -148360,6 +148688,12 @@
       "coord": [
         44.534886,
         -1.131453
+      ],
+      "default": false,
+      "topdown": [
+        "BCT",
+        "BC",
+        "CCMC"
       ]
     },
     "LFBD": {
@@ -148367,6 +148701,12 @@
       "coord": [
         44.828653,
         -0.715344
+      ],
+      "default": false,
+      "topdown": [
+        "BDT",
+        "BW",
+        "BB"
       ]
     },
     "LFBE": {
@@ -148374,6 +148714,13 @@
       "coord": [
         44.824431,
         0.520525
+      ],
+      "default": false,
+      "topdown": [
+        "BET",
+        "BE",
+        "BW",
+        "BB"
       ]
     },
     "LFBF": {
@@ -148388,6 +148735,12 @@
       "coord": [
         45.658231,
         -0.317567
+      ],
+      "default": false,
+      "topdown": [
+        "BGT",
+        "BG",
+        "CCMC"
       ]
     },
     "LFBH": {
@@ -148395,6 +148748,12 @@
       "coord": [
         46.179211,
         -1.195236
+      ],
+      "default": false,
+      "topdown": [
+        "BHT",
+        "BH",
+        "BB"
       ]
     },
     "LFBI": {
@@ -148402,6 +148761,12 @@
       "coord": [
         46.587397,
         0.306786
+      ],
+      "default": false,
+      "topdown": [
+        "BIT",
+        "BI",
+        "BB"
       ]
     },
     "LFBJ": {
@@ -148423,6 +148788,12 @@
       "coord": [
         45.860764,
         1.180306
+      ],
+      "default": false,
+      "topdown": [
+        "BLT",
+        "BL",
+        "BB"
       ]
     },
     "LFBM": {
@@ -148430,6 +148801,12 @@
       "coord": [
         43.911389,
         -0.51
+      ],
+      "default": false,
+      "topdown": [
+        "BMT",
+        "BM",
+        "CCMC"
       ]
     },
     "LFBN": {
@@ -148437,6 +148814,12 @@
       "coord": [
         46.313422,
         -0.394433
+      ],
+      "default": false,
+      "topdown": [
+        "BNI",
+        "BI",
+        "BB"
       ]
     },
     "LFBO": {
@@ -148444,6 +148827,13 @@
       "coord": [
         43.635128,
         1.367856
+      ],
+      "default": false,
+      "topdown": [
+        "BOT",
+        "EB",
+        "AE",
+        "BB"
       ]
     },
     "LFBP": {
@@ -148451,6 +148841,12 @@
       "coord": [
         43.3799,
         -0.418511
+      ],
+      "default": false,
+      "topdown": [
+        "BPT",
+        "PY",
+        "BB"
       ]
     },
     "LFBR": {
@@ -148458,6 +148854,15 @@
       "coord": [
         43.449156,
         1.263694
+      ],
+      "default": false,
+      "topdown": [
+        "BRT",
+        "WB",
+        "EB",
+        "AW",
+        "AE",
+        "BB"
       ]
     },
     "LFBS": {
@@ -148472,6 +148877,12 @@
       "coord": [
         43.18545,
         -0.002894
+      ],
+      "default": false,
+      "topdown": [
+        "BTT",
+        "PY",
+        "BB"
       ]
     },
     "LFBU": {
@@ -148479,6 +148890,13 @@
       "coord": [
         45.729475,
         0.219153
+      ],
+      "default": false,
+      "topdown": [
+        "BUI",
+        "BLV",
+        "BL",
+        "BB"
       ]
     },
     "LFBV": {
@@ -148500,6 +148918,12 @@
       "coord": [
         43.689167,
         -1.068889
+      ],
+      "default": false,
+      "topdown": [
+        "BYT",
+        "BM",
+        "CCMC"
       ]
     },
     "LFBZ": {
@@ -148507,6 +148931,13 @@
       "coord": [
         43.468308,
         -1.531161
+      ],
+      "default": false,
+      "topdown": [
+        "BZT",
+        "BZ",
+        "PY",
+        "BB"
       ]
     },
     "LFCA": {
@@ -148528,6 +148959,15 @@
       "coord": [
         44.350542,
         1.478586
+      ],
+      "default": false,
+      "topdown": [
+        "CCI",
+        "CN",
+        "CF",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFCD": {
@@ -148584,6 +149024,13 @@
       "coord": [
         43.554961,
         2.290592
+      ],
+      "default": false,
+      "topdown": [
+        "CKI",
+        "EB",
+        "AE",
+        "BB"
       ]
     },
     "LFCL": {
@@ -148591,6 +149038,12 @@
       "coord": [
         43.587778,
         1.498611
+      ],
+      "default": false,
+      "topdown": [
+        "CLT",
+        "AE",
+        "BB"
       ]
     },
     "LFCM": {
@@ -148633,6 +149086,15 @@
       "coord": [
         44.407489,
         2.483314
+      ],
+      "default": false,
+      "topdown": [
+        "CRT",
+        "CN",
+        "CF",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFCS": {
@@ -148780,6 +149242,12 @@
       "coord": [
         45.889508,
         -0.982347
+      ],
+      "default": false,
+      "topdown": [
+        "DNI",
+        "BH",
+        "BB"
       ]
     },
     "LFDP": {
@@ -148857,6 +149325,14 @@
       "coord": [
         47.326111,
         -3.198889
+      ],
+      "default": false,
+      "topdown": [
+        "EAI",
+        "NA",
+        "RS",
+        "RRS",
+        "RR"
       ]
     },
     "LFEB": {
@@ -148955,6 +149431,14 @@
       "coord": [
         47.481389,
         -3.101667
+      ],
+      "default": false,
+      "topdown": [
+        "EAI",
+        "NA",
+        "RS",
+        "RRS",
+        "RR"
       ]
     },
     "LFER": {
@@ -149011,6 +149495,14 @@
       "coord": [
         46.7175,
         -2.3925
+      ],
+      "default": false,
+      "topdown": [
+        "EAI",
+        "NA",
+        "RS",
+        "RRS",
+        "RR"
       ]
     },
     "LFEZ": {
@@ -149186,6 +149678,10 @@
       "coord": [
         48.11035,
         7.359147
+      ],
+      "default": false,
+      "topdown": [
+        "GAT"
       ]
     },
     "LFGB": {
@@ -149242,6 +149738,10 @@
       "coord": [
         47.042694,
         5.434928
+      ],
+      "default": false,
+      "topdown": [
+        "GJT"
       ]
     },
     "LFGK": {
@@ -149452,6 +149952,14 @@
       "coord": [
         45.079656,
         3.763442
+      ],
+      "default": false,
+      "topdown": [
+        "CL",
+        "CF",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFHQ": {
@@ -149515,6 +150023,16 @@
       "coord": [
         46.534383,
         3.421606
+      ],
+      "default": false,
+      "topdown": [
+        "HYI",
+        "LN",
+        "CY",
+        "CF",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFHZ": {
@@ -149690,6 +150208,14 @@
       "coord": [
         48.978281,
         6.246531
+      ],
+      "default": false,
+      "topdown": [
+        "JLT",
+        "JL",
+        "SC",
+        "SU",
+        "EE"
       ]
     },
     "LFJR": {
@@ -149697,6 +150223,15 @@
       "coord": [
         47.560211,
         -0.312128
+      ],
+      "default": false,
+      "topdown": [
+        "JRI",
+        "NIE",
+        "NB",
+        "RS",
+        "RRS",
+        "RR"
       ]
     },
     "LFJS": {
@@ -149746,6 +150281,14 @@
       "coord": [
         42.55,
         9.484847
+      ],
+      "default": false,
+      "topdown": [
+        "KBT",
+        "BKB",
+        "MME",
+        "MRAE",
+        "MM"
       ]
     },
     "LFKC": {
@@ -149753,6 +150296,15 @@
       "coord": [
         42.524356,
         8.793011
+      ],
+      "default": false,
+      "topdown": [
+        "KCT",
+        "BKC",
+        "BKB",
+        "MME",
+        "MRAE",
+        "MM"
       ]
     },
     "LFKD": {
@@ -149774,6 +150326,14 @@
       "coord": [
         41.502108,
         9.096747
+      ],
+      "default": false,
+      "topdown": [
+        "KFT",
+        "KJ",
+        "MME",
+        "MRAE",
+        "MM"
       ]
     },
     "LFKG": {
@@ -149795,6 +150355,14 @@
       "coord": [
         41.923897,
         8.802436
+      ],
+      "default": false,
+      "topdown": [
+        "KJT",
+        "KJ",
+        "MME",
+        "MRAE",
+        "MM"
       ]
     },
     "LFKK": {
@@ -149844,6 +150412,12 @@
       "coord": [
         41.926289,
         9.405303
+      ],
+      "default": false,
+      "topdown": [
+        "KST",
+        "KS",
+        "CCMC"
       ]
     },
     "LFKT": {
@@ -149872,6 +150446,15 @@
       "coord": [
         47.846328,
         3.496578
+      ],
+      "default": false,
+      "topdown": [
+        "LAI",
+        "SI",
+        "SJ",
+        "RPAE",
+        "LOW",
+        "PAR"
       ]
     },
     "LFLB": {
@@ -149879,6 +150462,16 @@
       "coord": [
         45.639272,
         5.880122
+      ],
+      "default": false,
+      "topdown": [
+        "LBT",
+        "LB",
+        "VE",
+        "VW",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFLC": {
@@ -149886,6 +150479,14 @@
       "coord": [
         45.785972,
         3.16245
+      ],
+      "default": false,
+      "topdown": [
+        "LCT",
+        "CF",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFLD": {
@@ -149893,6 +150494,14 @@
       "coord": [
         47.060786,
         2.370083
+      ],
+      "default": false,
+      "topdown": [
+        "LAI",
+        "SJ",
+        "RPAE",
+        "LOW",
+        "PAR"
       ]
     },
     "LFLE": {
@@ -149907,6 +150516,15 @@
       "coord": [
         45.218056,
         5.848611
+      ],
+      "default": false,
+      "topdown": [
+        "LGI",
+        "VE",
+        "VW",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFLH": {
@@ -149914,6 +150532,13 @@
       "coord": [
         46.828275,
         4.817058
+      ],
+      "default": false,
+      "topdown": [
+        "LHI",
+        "SBC",
+        "SJ",
+        "EE"
       ]
     },
     "LFLI": {
@@ -149942,6 +150567,14 @@
       "coord": [
         45.725639,
         5.081106
+      ],
+      "default": false,
+      "topdown": [
+        "LLT",
+        "VW",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFLM": {
@@ -149956,6 +150589,16 @@
       "coord": [
         46.406619,
         4.020986
+      ],
+      "default": false,
+      "topdown": [
+        "LNT",
+        "LN",
+        "CY",
+        "CF",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFLO": {
@@ -149963,6 +150606,15 @@
       "coord": [
         46.052778,
         3.999722
+      ],
+      "default": false,
+      "topdown": [
+        "LOI",
+        "CY",
+        "CF",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFLP": {
@@ -149970,6 +150622,11 @@
       "coord": [
         45.930775,
         6.106289
+      ],
+      "default": false,
+      "topdown": [
+        "LPT",
+        "LB"
       ]
     },
     "LFLQ": {
@@ -149991,6 +150648,15 @@
       "coord": [
         45.362936,
         5.332664
+      ],
+      "default": false,
+      "topdown": [
+        "LST",
+        "VE",
+        "VW",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFLT": {
@@ -150005,6 +150671,14 @@
       "coord": [
         44.915558,
         4.968744
+      ],
+      "default": false,
+      "topdown": [
+        "LUT",
+        "VW",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFLV": {
@@ -150012,6 +150686,14 @@
       "coord": [
         46.171783,
         3.404033
+      ],
+      "default": false,
+      "topdown": [
+        "LVI",
+        "CF",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFLW": {
@@ -150019,6 +150701,15 @@
       "coord": [
         44.897583,
         2.416719
+      ],
+      "default": false,
+      "topdown": [
+        "LWI",
+        "CN",
+        "CF",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFLX": {
@@ -150026,6 +150717,13 @@
       "coord": [
         46.860314,
         1.721125
+      ],
+      "default": false,
+      "topdown": [
+        "LXT",
+        "BIV",
+        "BI",
+        "BB"
       ]
     },
     "LFLY": {
@@ -150033,6 +150731,14 @@
       "coord": [
         45.729519,
         4.938844
+      ],
+      "default": false,
+      "topdown": [
+        "LYT",
+        "VW",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFLZ": {
@@ -150047,6 +150753,14 @@
       "coord": [
         43.505278,
         5.367222
+      ],
+      "default": false,
+      "topdown": [
+        "MAT",
+        "ME",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFMC": {
@@ -150054,6 +150768,11 @@
       "coord": [
         43.384722,
         6.386944
+      ],
+      "default": false,
+      "topdown": [
+        "MCT",
+        "CCMC"
       ]
     },
     "LFMD": {
@@ -150061,6 +150780,15 @@
       "coord": [
         43.546389,
         6.954167
+      ],
+      "default": false,
+      "topdown": [
+        "MDT",
+        "ND",
+        "NO",
+        "MME",
+        "MRAE",
+        "MM"
       ]
     },
     "LFME": {
@@ -150089,6 +150817,15 @@
       "coord": [
         45.53405,
         4.297311
+      ],
+      "default": false,
+      "topdown": [
+        "MHT",
+        "CK",
+        "CF",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFMI": {
@@ -150096,6 +150833,13 @@
       "coord": [
         43.522394,
         4.924236
+      ],
+      "default": false,
+      "topdown": [
+        "MIT",
+        "MI",
+        "MIC",
+        "CCMC"
       ]
     },
     "LFMK": {
@@ -150103,6 +150847,13 @@
       "coord": [
         43.215817,
         2.308544
+      ],
+      "default": false,
+      "topdown": [
+        "MKT",
+        "EB",
+        "AE",
+        "BB"
       ]
     },
     "LFML": {
@@ -150110,6 +150861,14 @@
       "coord": [
         43.436633,
         5.215119
+      ],
+      "default": false,
+      "topdown": [
+        "MLT",
+        "ME",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFMN": {
@@ -150117,6 +150876,15 @@
       "coord": [
         43.665406,
         7.214983
+      ],
+      "default": false,
+      "topdown": [
+        "MNT",
+        "ND",
+        "NO",
+        "MME",
+        "MRAE",
+        "MM"
       ]
     },
     "LFMO": {
@@ -150124,6 +150892,12 @@
       "coord": [
         44.140089,
         4.868581
+      ],
+      "default": false,
+      "topdown": [
+        "MOT",
+        "MO",
+        "CCMC"
       ]
     },
     "LFMP": {
@@ -150131,6 +150905,15 @@
       "coord": [
         42.740833,
         2.869722
+      ],
+      "default": false,
+      "topdown": [
+        "MPT",
+        "FA",
+        "FE",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFMQ": {
@@ -150138,6 +150921,14 @@
       "coord": [
         43.252222,
         5.786111
+      ],
+      "default": false,
+      "topdown": [
+        "ME",
+        "MAC",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFMR": {
@@ -150159,6 +150950,14 @@
       "coord": [
         43.583261,
         3.961378
+      ],
+      "default": false,
+      "topdown": [
+        "MTT",
+        "FE",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFMU": {
@@ -150166,6 +150965,15 @@
       "coord": [
         43.323428,
         3.353397
+      ],
+      "default": false,
+      "topdown": [
+        "MUT",
+        "FA",
+        "FE",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFMV": {
@@ -150173,6 +150981,15 @@
       "coord": [
         43.906581,
         4.902028
+      ],
+      "default": false,
+      "topdown": [
+        "MVT",
+        "MB",
+        "ME",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFMW": {
@@ -150194,6 +151011,12 @@
       "coord": [
         43.603056,
         5.108333
+      ],
+      "default": false,
+      "topdown": [
+        "MYT",
+        "MY",
+        "CCMC"
       ]
     },
     "LFMZ": {
@@ -150201,6 +151024,14 @@
       "coord": [
         43.175,
         2.732778
+      ],
+      "default": false,
+      "topdown": [
+        "MZI",
+        "FA",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFNA": {
@@ -150215,6 +151046,15 @@
       "coord": [
         44.504081,
         3.527633
+      ],
+      "default": false,
+      "topdown": [
+        "NBI",
+        "FB",
+        "FA",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFNC": {
@@ -150348,6 +151188,12 @@
       "coord": [
         47.056944,
         2.638889
+      ],
+      "default": false,
+      "topdown": [
+        "OAT",
+        "OA",
+        "CCMC"
       ]
     },
     "LFOB": {
@@ -150355,6 +151201,18 @@
       "coord": [
         49.454422,
         2.112814
+      ],
+      "default": false,
+      "topdown": [
+        "OBT",
+        "OB",
+        "PGN",
+        "DODG",
+        "DOGS",
+        "FPAE",
+        "RPAE",
+        "LOW",
+        "PAR"
       ]
     },
     "LFOC": {
@@ -150376,6 +151234,12 @@
       "coord": [
         49.028611,
         1.22
+      ],
+      "default": false,
+      "topdown": [
+        "OET",
+        "OE",
+        "CCMC"
       ]
     },
     "LFOF": {
@@ -150397,6 +151261,14 @@
       "coord": [
         49.533847,
         0.088119
+      ],
+      "default": false,
+      "topdown": [
+        "OHI",
+        "JD",
+        "RN",
+        "RRW",
+        "RR"
       ]
     },
     "LFOI": {
@@ -150411,6 +151283,12 @@
       "coord": [
         47.987778,
         1.760556
+      ],
+      "default": false,
+      "topdown": [
+        "OJT",
+        "OJ",
+        "CCMC"
       ]
     },
     "LFOK": {
@@ -150418,6 +151296,15 @@
       "coord": [
         48.773325,
         4.206156
+      ],
+      "default": false,
+      "topdown": [
+        "OKT",
+        "SI",
+        "SJ",
+        "RPAE",
+        "LOW",
+        "PAR"
       ]
     },
     "LFOL": {
@@ -150453,6 +151340,18 @@
       "coord": [
         49.390953,
         1.183936
+      ],
+      "default": false,
+      "topdown": [
+        "OPT",
+        "QR",
+        "QE",
+        "TB",
+        "TNTB",
+        "AENB",
+        "RPAW",
+        "LOW",
+        "PAR"
       ]
     },
     "LFOQ": {
@@ -150460,6 +151359,14 @@
       "coord": [
         47.679833,
         1.205775
+      ],
+      "default": false,
+      "topdown": [
+        "OQI",
+        "SJ",
+        "RPAE",
+        "LOW",
+        "PAR"
       ]
     },
     "LFOR": {
@@ -150481,6 +151388,17 @@
       "coord": [
         47.431944,
         0.723056
+      ],
+      "default": false,
+      "topdown": [
+        "OTT",
+        "SK",
+        "SJ",
+        "ORGY",
+        "OPKZ",
+        "RPAW",
+        "LOW",
+        "PAR"
       ]
     },
     "LFOU": {
@@ -150488,6 +151406,14 @@
       "coord": [
         47.081906,
         -0.877217
+      ],
+      "default": false,
+      "topdown": [
+        "OUI",
+        "NB",
+        "RS",
+        "RRS",
+        "RR"
       ]
     },
     "LFOV": {
@@ -150495,6 +151421,13 @@
       "coord": [
         48.03225,
         -0.742781
+      ],
+      "default": false,
+      "topdown": [
+        "OVI",
+        "RN",
+        "RRW",
+        "RR"
       ]
     },
     "LFOW": {
@@ -150523,6 +151456,14 @@
       "coord": [
         47.897617,
         2.164208
+      ],
+      "default": false,
+      "topdown": [
+        "OZI",
+        "SJ",
+        "RPAE",
+        "LOW",
+        "PAR"
       ]
     },
     "LFPA": {
@@ -150537,6 +151478,20 @@
       "coord": [
         48.969525,
         2.441492
+      ],
+      "default": false,
+      "topdown": [
+        "PBT",
+        "PGDS",
+        "PGDN",
+        "PGS",
+        "PGN",
+        "DODG",
+        "DOGS",
+        "FPAE",
+        "RPAE",
+        "LOW",
+        "PAR"
       ]
     },
     "LFPC": {
@@ -150572,6 +151527,21 @@
       "coord": [
         49.009747,
         2.547819
+      ],
+      "default": false,
+      "topdown": [
+        "PGTS",
+        "PGTN",
+        "PGDS",
+        "PGDN",
+        "PGS",
+        "PGN",
+        "DODG",
+        "DOGS",
+        "FPAE",
+        "RPAE",
+        "LOW",
+        "PAR"
       ]
     },
     "LFPH": {
@@ -150593,6 +151563,10 @@
       "coord": [
         48.821944,
         2.622778
+      ],
+      "default": false,
+      "topdown": [
+        "PLT"
       ]
     },
     "LFPM": {
@@ -150600,6 +151574,14 @@
       "coord": [
         48.605283,
         2.670781
+      ],
+      "default": false,
+      "topdown": [
+        "PMT",
+        "SJ",
+        "RPAE",
+        "LOW",
+        "PAR"
       ]
     },
     "LFPN": {
@@ -150607,6 +151589,10 @@
       "coord": [
         48.749756,
         2.111178
+      ],
+      "default": false,
+      "topdown": [
+        "PNT"
       ]
     },
     "LFPO": {
@@ -150614,6 +151600,22 @@
       "coord": [
         48.723281,
         2.379578
+      ],
+      "default": false,
+      "topdown": [
+        "POT",
+        "PODD",
+        "PO",
+        "PGDS",
+        "PGS",
+        "PGDN",
+        "PGN",
+        "DODG",
+        "DOGS",
+        "FPAE",
+        "RPAE",
+        "LOW",
+        "PAR"
       ]
     },
     "LFPP": {
@@ -150642,6 +151644,19 @@
       "coord": [
         49.096628,
         2.040722
+      ],
+      "default": false,
+      "topdown": [
+        "PTT",
+        "PT",
+        "PGDN",
+        "PGN",
+        "DODG",
+        "DOGS",
+        "FPAE",
+        "RPAE",
+        "LOW",
+        "PAR"
       ]
     },
     "LFPU": {
@@ -150656,6 +151671,12 @@
       "coord": [
         48.774172,
         2.191389
+      ],
+      "default": false,
+      "topdown": [
+        "PVT",
+        "PV",
+        "CCMC"
       ]
     },
     "LFPW": {
@@ -150670,6 +151691,10 @@
       "coord": [
         48.842222,
         1.980278
+      ],
+      "default": false,
+      "topdown": [
+        "PXT"
       ]
     },
     "LFPY": {
@@ -150684,6 +151709,10 @@
       "coord": [
         48.810278,
         2.073333
+      ],
+      "default": false,
+      "topdown": [
+        "PZT"
       ]
     },
     "LFQA": {
@@ -150691,6 +151720,15 @@
       "coord": [
         49.208689,
         4.156581
+      ],
+      "default": false,
+      "topdown": [
+        "QAI",
+        "SI",
+        "SJ",
+        "RPAE",
+        "LOW",
+        "PAR"
       ]
     },
     "LFQB": {
@@ -150698,6 +151736,15 @@
       "coord": [
         48.321619,
         4.016622
+      ],
+      "default": false,
+      "topdown": [
+        "QAI",
+        "SI",
+        "SJ",
+        "RPAE",
+        "LOW",
+        "PAR"
       ]
     },
     "LFQC": {
@@ -150719,6 +151766,12 @@
       "coord": [
         49.229089,
         5.676039
+      ],
+      "default": false,
+      "topdown": [
+        "QET",
+        ".QE",
+        "CCMC"
       ]
     },
     "LFQF": {
@@ -150775,6 +151828,12 @@
       "coord": [
         47.205308,
         6.08055
+      ],
+      "default": false,
+      "topdown": [
+        "QMI",
+        "SBC",
+        "EE"
       ]
     },
     "LFQN": {
@@ -150796,6 +151855,12 @@
       "coord": [
         48.768153,
         7.205131
+      ],
+      "default": false,
+      "topdown": [
+        "QPT",
+        "QP",
+        "CCMC"
       ]
     },
     "LFQQ": {
@@ -150803,6 +151868,17 @@
       "coord": [
         50.563425,
         3.086822
+      ],
+      "default": false,
+      "topdown": [
+        "QQT",
+        "QE",
+        "TB",
+        "TNTB",
+        "AENB",
+        "RPAW",
+        "LOW",
+        "PAR"
       ]
     },
     "LFQS": {
@@ -150817,6 +151893,18 @@
       "coord": [
         50.6166,
         2.640094
+      ],
+      "default": false,
+      "topdown": [
+        "QTT",
+        "QW",
+        "QE",
+        "TB",
+        "TNTB",
+        "AENB",
+        "RPAW",
+        "LOW",
+        "PAR"
       ]
     },
     "LFQU": {
@@ -150873,6 +151961,13 @@
       "coord": [
         48.447131,
         -4.421753
+      ],
+      "default": false,
+      "topdown": [
+        "RBT",
+        "RBA",
+        "RRW",
+        "RR"
       ]
     },
     "LFRC": {
@@ -150880,6 +151975,15 @@
       "coord": [
         49.650775,
         -1.4753
+      ],
+      "default": false,
+      "topdown": [
+        "RCI",
+        "JC",
+        "JD",
+        "RN",
+        "RRW",
+        "RR"
       ]
     },
     "LFRD": {
@@ -150887,6 +151991,10 @@
       "coord": [
         48.587706,
         -2.07995
+      ],
+      "default": false,
+      "topdown": [
+        "RDT"
       ]
     },
     "LFRE": {
@@ -150894,6 +152002,14 @@
       "coord": [
         47.288333,
         -2.346944
+      ],
+      "default": false,
+      "topdown": [
+        "REI",
+        "NA",
+        "RS",
+        "RRS",
+        "RR"
       ]
     },
     "LFRF": {
@@ -150908,6 +152024,14 @@
       "coord": [
         49.363394,
         0.159997
+      ],
+      "default": false,
+      "topdown": [
+        "RGT",
+        "JD",
+        "RN",
+        "RRW",
+        "RR"
       ]
     },
     "LFRH": {
@@ -150915,6 +152039,15 @@
       "coord": [
         47.760556,
         -3.44
+      ],
+      "default": false,
+      "topdown": [
+        "RHT",
+        "RHA",
+        "RBA",
+        "CCMC",
+        "RRW",
+        "RR"
       ]
     },
     "LFRI": {
@@ -150922,6 +152055,14 @@
       "coord": [
         46.702383,
         -1.381758
+      ],
+      "default": false,
+      "topdown": [
+        "RII",
+        "NB",
+        "RS",
+        "RRS",
+        "RR"
       ]
     },
     "LFRJ": {
@@ -150929,6 +152070,15 @@
       "coord": [
         48.530258,
         -4.151642
+      ],
+      "default": false,
+      "topdown": [
+        "RJT",
+        "RLI",
+        "RBA",
+        "CCMC",
+        "RRW",
+        "RR"
       ]
     },
     "LFRK": {
@@ -150936,6 +152086,14 @@
       "coord": [
         49.173281,
         -0.449875
+      ],
+      "default": false,
+      "topdown": [
+        "RKT",
+        "JD",
+        "RN",
+        "RRW",
+        "RR"
       ]
     },
     "LFRL": {
@@ -150943,6 +152101,15 @@
       "coord": [
         48.282531,
         -4.443692
+      ],
+      "default": false,
+      "topdown": [
+        "RLT",
+        "RLA",
+        "RBA",
+        "CCMC",
+        "RRW",
+        "RR"
       ]
     },
     "LFRM": {
@@ -150950,6 +152117,14 @@
       "coord": [
         47.948492,
         0.201647
+      ],
+      "default": false,
+      "topdown": [
+        "RMT",
+        "NB",
+        "RS",
+        "RRS",
+        "RR"
       ]
     },
     "LFRN": {
@@ -150957,6 +152132,13 @@
       "coord": [
         48.071933,
         -1.732233
+      ],
+      "default": false,
+      "topdown": [
+        "RNT",
+        "RN",
+        "RRW",
+        "RR"
       ]
     },
     "LFRO": {
@@ -150964,6 +152146,14 @@
       "coord": [
         48.754444,
         -3.471944
+      ],
+      "default": false,
+      "topdown": [
+        "ROI",
+        "IIN",
+        "RBA",
+        "RRW",
+        "RR"
       ]
     },
     "LFRP": {
@@ -150978,6 +152168,13 @@
       "coord": [
         47.974947,
         -4.167875
+      ],
+      "default": false,
+      "topdown": [
+        "RQT",
+        "RBA",
+        "RRW",
+        "RR"
       ]
     },
     "LFRR": {
@@ -150992,6 +152189,13 @@
       "coord": [
         47.157019,
         -1.607808
+      ],
+      "default": false,
+      "topdown": [
+        "RST",
+        "RS",
+        "RRS",
+        "RR"
       ]
     },
     "LFRT": {
@@ -151006,6 +152210,14 @@
       "coord": [
         48.600747,
         -3.816669
+      ],
+      "default": false,
+      "topdown": [
+        "RUI",
+        "IIN",
+        "RBA",
+        "RRW",
+        "RR"
       ]
     },
     "LFRV": {
@@ -151013,6 +152225,14 @@
       "coord": [
         47.719244,
         -2.723378
+      ],
+      "default": false,
+      "topdown": [
+        "RVI",
+        "NA",
+        "RS",
+        "RRS",
+        "RR"
       ]
     },
     "LFRW": {
@@ -151027,6 +152247,13 @@
       "coord": [
         47.31065,
         -2.156803
+      ],
+      "default": false,
+      "topdown": [
+        "RZT",
+        "RS",
+        "RRS",
+        "RR"
       ]
     },
     "LFSA": {
@@ -151041,6 +152268,17 @@
       "coord": [
         47.589878,
         7.529222
+      ],
+      "default": false,
+      "topdown": [
+        "SBT",
+        "SB",
+        "SBC",
+        "EE",
+        "LSAA",
+        "LSAS",
+        "SZ",
+        "LSAU"
       ]
     },
     "LFSC": {
@@ -151055,6 +152293,12 @@
       "coord": [
         47.265817,
         5.094978
+      ],
+      "default": false,
+      "topdown": [
+        "SDI",
+        "SBC",
+        "EE"
       ]
     },
     "LFSE": {
@@ -151076,6 +152320,14 @@
       "coord": [
         48.325006,
         6.066742
+      ],
+      "default": false,
+      "topdown": [
+        "SGI",
+        "SC",
+        "SU",
+        "UE",
+        "EE"
       ]
     },
     "LFSH": {
@@ -151090,6 +152342,12 @@
       "coord": [
         48.633536,
         4.908189
+      ],
+      "default": false,
+      "topdown": [
+        "SIT",
+        ".SI",
+        "CCMC"
       ]
     },
     "LFSJ": {
@@ -151111,6 +152369,13 @@
       "coord": [
         45.039721,
         1.485555
+      ],
+      "default": false,
+      "topdown": [
+        "SLT",
+        "BLV",
+        "BL",
+        "BB"
       ]
     },
     "LFSM": {
@@ -151125,6 +152390,14 @@
       "coord": [
         48.692086,
         6.22605
+      ],
+      "default": false,
+      "topdown": [
+        "SNI",
+        "SC",
+        "SU",
+        "UE",
+        "EE"
       ]
     },
     "LFSO": {
@@ -151132,6 +152405,12 @@
       "coord": [
         48.583186,
         5.954525
+      ],
+      "default": false,
+      "topdown": [
+        "SOT",
+        "SO",
+        "CCMC"
       ]
     },
     "LFSP": {
@@ -151167,6 +152446,14 @@
       "coord": [
         48.541944,
         7.634444
+      ],
+      "default": false,
+      "topdown": [
+        "STT",
+        "RW",
+        "SU",
+        "UE",
+        "EE"
       ]
     },
     "LFSU": {
@@ -151195,6 +152482,12 @@
       "coord": [
         47.787222,
         6.365
+      ],
+      "default": false,
+      "topdown": [
+        "SXT",
+        "SXA",
+        "CCMC"
       ]
     },
     "LFSY": {
@@ -151230,6 +152523,12 @@
       "coord": [
         43.097344,
         6.146031
+      ],
+      "default": false,
+      "topdown": [
+        "THT",
+        "THA",
+        "CCMC"
       ]
     },
     "LFTM": {
@@ -151272,6 +152571,14 @@
       "coord": [
         43.757428,
         4.416344
+      ],
+      "default": false,
+      "topdown": [
+        "TWT",
+        "FE",
+        "MMW",
+        "MRAW",
+        "MM"
       ]
     },
     "LFTZ": {
@@ -151279,6 +152586,11 @@
       "coord": [
         43.205278,
         6.481944
+      ],
+      "default": false,
+      "topdown": [
+        "TZT",
+        "NO"
       ]
     },
     "LFXA": {
