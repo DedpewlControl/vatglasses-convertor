@@ -3715,6 +3715,13 @@
       "coord": [
         48.447222,
         -4.421667
+      ],
+      "default": false,
+      "topdown": [
+        "RHT",
+        "RHA",
+        "RRW",
+        "RR"
       ]
     },
     "LFRS": {
@@ -3898,7 +3905,7 @@
       ]
     },
     "LFSL": {
-      "callsign": "Brive\u2013Souillac",
+      "callsign": "Brive–Souillac",
       "coord": [
         45.039721,
         1.485555
